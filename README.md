@@ -4,3 +4,4 @@ GitHub parsing test
 123123
 первый коммит от кости
 07.08
+name PR KAN-5
