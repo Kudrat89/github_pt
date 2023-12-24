@@ -1,4 +1,4 @@
-import random
+import random test
 
 # Генерируем список из 10 случайных чисел от 1 до 100
 random_numbers = [random.randint(1, 100) for _ in range(10)]
