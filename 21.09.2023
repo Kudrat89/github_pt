@@ -6,19 +6,30 @@ random_numbers = [random.randint(1, 100) for _ in range(10)]
 
 print("Исходный список случайных чисел:", random_numbers)
 
-# Сортируем список по возрастанию
-sorted_numbers = sorted(random_numbers)
 
-print("Отсортированный список:", sorted_numbers)
-
-# Вычисляем среднее значение
-average = sum(random_numbers) / len(random_numbers)
-
-print("Среднее значение:", average)
-
-# Находим максимальное и минимальное значения
-maximum = max(random_numbers)
-minimum = min(random_numbers)
-
-print("Максимальное значение:", maximum)
-print("Минимальное значение:", minimum)
+1
+3
+2
+4
+2
+1
+12
+d12
+d
+12
+d
+21
+d12
+d12
+d
+12d
+21
+d1
+2d
+12d
+21d
+12
+d12
+d
+12
+d
