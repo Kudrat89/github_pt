@@ -5,17 +5,4 @@ import random test
 random_numbers = [random.randint(1, 100) for _ in range(10)]
 
 print("Исходный список случайных чисел:", random_numbers)
-
-
-d
-12d
-21
-d1
-2d
-12d
-21d
-12
-d12
-d
-12
-d
+                                                                                              101001010  10  10  1  01  01  01  0  101  01  01  01  01  010  10    
