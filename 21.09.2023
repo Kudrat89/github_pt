@@ -6,3 +6,4 @@ random_numbers = [random.randint(1, 100) for _ in range(10)]
 
 print("Исходный список случайных чисел:", random_numbers)
                                                                                               101001010  10  10  1  01  01  01  0  101  01  01  01  01  010  10    
+1
