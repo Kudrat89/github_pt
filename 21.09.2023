@@ -12,3 +12,4 @@ random_numbers = [random.randint(1, 100) for _ in range(10)]
 a
 print("Исходный список случайных чисел:", random_numbers)
 11фыыф
+вфывфы
