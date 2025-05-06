@@ -6,7 +6,7 @@ dont read
 # github_pt
 GitHub parsing test
 первый комит в 19:54 23,06,2023
-123123
+ALGA KYRGYZSTAN
 первый коммит от костm
 07.08
 14.12.2023
