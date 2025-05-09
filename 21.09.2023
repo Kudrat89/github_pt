@@ -1,12 +1,7 @@
-2DMcode
-import random test
-asdasd
-as
-da
-sd
-asd
-asd
-asdasd
+
+edit for KAN-23
+import random
+
 # Генерируем список из 10 случайных чисел от 1 до 100
 random_numbers = [random.randint(1, 100) for _ in range(10)]
 a

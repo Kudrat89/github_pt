@@ -9,5 +9,5 @@ GitHub parsing test
 ALGA KYRGYZSTAN
 первый коммит от костm
 07.08
-14.12.2023
-29.10.2024
+
+06.05.2025 smoke
