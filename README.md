@@ -11,3 +11,5 @@ ALGA KYRGYZSTAN
 07.08
 
 06.05.2025 smoke
+
+test alerts
